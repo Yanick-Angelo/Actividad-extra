@@ -1,0 +1,5 @@
+﻿Resumen Unidad 2
+
+Esta unidad ha sido la más difícil para mí ya que no entendí bien el proceso de programar en Java, si entendí como era la estructura para la tarea de los signos zodiacales, pero no como conectarlos ni como empezar, no pude darles forma a los comandos lo intente, tengo un borrador guardado, pero me frustre y ya no lo pude finalizar
+
+Repase el contenido, pero no logre dar forma, ahora trato de aprender con videos y teorías, ya que sé que es importante y en las próximas clases será relevante.

@@ -1,0 +1,8 @@
+﻿Resumen Unidad 1
+
+Recuerdo haber visto los números binarios cuando estudiaba en la primaria, tenía una noción de que las computadoras funcionan con estos números, pero no sabía hasta que grado, es como gráficamente cuando representan un software con códigos, como se ve en la película Matrix. Me pareció bastante curioso y sorprendente saber que las palabras, letras y caracteres se pueden convertir a código binario y así tener un lenguaje encriptado.
+Ya sea para uso personal o para fines de la carrera ya que los lenguajes de programación tienden a ser manejados a un nivel más complejo.
+
+Así se manejan los lenguajes de programación, los algoritmos son específicos y detallados con cada instrucción, de otra manera el comando podría no funcionar para nada o resultar contraproducente, ya que no se detalla claramente la instrucción.
+
+En cuanto a la tarea extra me pareció demasiado educativa porque ya me pude dar una idea de que van los algoritmos es instrucciones para cualquier programa o juego creado, hay que ser bastante específicos y concisos respecto a las instrucciones para lograr cierto objetivo y con este juego ya las tareas fueron teniendo sentido.

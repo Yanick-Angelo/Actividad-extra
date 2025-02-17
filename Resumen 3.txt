@@ -1,0 +1,9 @@
+﻿Resumen 3
+
+Me gusto bastante el crear comandos para poder sincronizarlos con  git hub, en este tema me sentí más seguro y si logré completar las actividades, aprendí bastante y se ve que git hub es bastante extenso, pero es bueno empezarlo con seguridad de lo que se hace.
+
+Mi mayor reto fue agregar las capturas de los comandos ya que trataba con el comando add pero no reconocía los nombres de los archivos extras hasta que los modifique y se logró, use el status comando para ver si se habían subido, pero luego iba a la página y no aparecían, hasta que me di cuenta de que no había escrito el comando “push” y ya con eso aparecieron los archivos con los dos commitments.
+
+También en la tarea extra tuve algo de problema cuando trataba de añadir los archivos a la rama de las “actividades” me salía error y cuando lo intentaba de nuevo aparecían únicamente en la “main” rama hasta que mejor comprimí las carpetas y así si se pudieron guardar en la debida rama.
+
+En fin, me llevo bastante tiempo, pero se logró finalizar la tarea.
